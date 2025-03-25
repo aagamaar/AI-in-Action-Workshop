@@ -57,3 +57,7 @@ Have a clear relationship with input and output
 Deal problems with incertainty
 Data with hidden patterns
 The one providing mnimum errors
+ML agorithms and data are complementary
+Raw data: 
+Curated data:
+Good set of features and they are applied to model----------> Feature engineering
