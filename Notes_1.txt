@@ -61,3 +61,4 @@ ML agorithms and data are complementary
 Raw data: 
 Curated data:
 Good set of features and they are applied to model----------> Feature engineering
+
