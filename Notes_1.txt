@@ -37,3 +37,5 @@ Starving for insights
 Data Engineering
 Data Analytics
 Data Visualising and Storytelling
+Making data compatible for analytics----------> clean data
+Clean Data ----------Analysis (EDA)
