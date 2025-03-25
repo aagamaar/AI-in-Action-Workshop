@@ -52,6 +52,8 @@ DATA SCIENCE AND AI is complementary.
 Learning is any process by which a system improves performance with experience.
 
 MACHINE LEARNING: 
+Not useful for all problems
 Have a clear relationship with input and output
 Deal problems with incertainty
 Data with hidden patterns
+The one providing mnimum errors
