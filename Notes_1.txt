@@ -63,4 +63,12 @@ Curated data:
 Good set of features and they are applied to model----------> Feature engineering
 
 Supervised Learning: Classifcation and Regression
-Unsupervised Learning: Clustering and Itemset & data rule miningj
+Unsupervised Learning: Clustering and Itemset & data rule mining
+Reinforcement Learing : Rewards based Learning
+
+..........................................................................................................
+
+NEURAL NETWORKS:
+Smple neural network:
+input layer. output layer, hidden layers
+
