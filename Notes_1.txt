@@ -51,3 +51,6 @@ prescriptive- recommendations
 DATA SCIENCE AND AI is complementary.
 Learning is any process by which a system improves performance with experience.
 
+MACHINE LEARNING: 
+Have a clear relationship with input and output
+Deal problems with incertainty
