@@ -72,3 +72,6 @@ NEURAL NETWORKS:
 Smple neural network:
 input layer. output layer, hidden layers
 
+Temporal Data- RNN
+Spatial Data: CNN
+
