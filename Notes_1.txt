@@ -12,3 +12,8 @@ CV- AI cameras
 Speech Processing- Siri, Cortana
 NLP- chatgpt
 Robotics-physical appearance of AI
+
+Deep Neural Networks like human brain and nervous system
+DEEP LEARNING TECHNIQUE
+
+AI systems that are not ML based-----face detection systems           
