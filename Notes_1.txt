@@ -39,3 +39,10 @@ Data Analytics
 Data Visualising and Storytelling
 Making data compatible for analytics----------> clean data
 Clean Data ----------Analysis (EDA)
+
+
+ANALYTICS:
+descriptive- what happened with (30% loss in business,60% customers churned out )
+diagnosis- why did this happen
+predictive-
+prescriptive- recommendations
