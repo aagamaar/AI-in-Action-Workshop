@@ -54,3 +54,4 @@ Learning is any process by which a system improves performance with experience.
 MACHINE LEARNING: 
 Have a clear relationship with input and output
 Deal problems with incertainty
+Data with hidden patterns
