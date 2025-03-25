@@ -43,6 +43,6 @@ Clean Data ----------Analysis (EDA)
 
 ANALYTICS:
 descriptive- what happened with (30% loss in business,60% customers churned out )
-diagnosis- why did this happen
-predictive-
+diagnosis- why did this happen (reason behind the loss)
+predictive-what might happen in the future ( most valuable analysis)
 prescriptive- recommendations
