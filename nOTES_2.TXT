@@ -12,3 +12,4 @@ Plugins
 WEB SCRAPING:
 *useful for the first step in data collection
 
+*Beautiful soup
