@@ -49,5 +49,5 @@ predictive-what might happen in the future ( most valuable analysis)
 prescriptive- recommendations
 
 DATA SCIENCE AND AI is complementary.
+Learning is any process by which a system improves performance with experience.
 
-Learning is any process by which a system improves performance with experience
