@@ -1,0 +1,10 @@
+IS MY DATA AVAILABLE OR NOT?
+
+Resources:
+kaggle 
+UCI ML repository
+
+Web scraping:
+Without coding we can scrape data with web scraper or beautiful soup.
+
+Plugins
