@@ -4,3 +4,11 @@ Modern Intelligence -----------> Narrow AI (performs only 1 task),
                                  General AI (performs many tasks), 
                                  Super AI (numerous abilities
 
+INDEPENDENT DOMAINS OF AI
+*most dominant domain - ML
+
+ML- Learn from experience
+CV- AI cameras
+Speech Processing- Siri, Cortana
+NLP- chatgpt
+Robotics-physical appearance of AI
