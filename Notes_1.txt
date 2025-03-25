@@ -29,3 +29,7 @@ DATA
 *New oil
 *find solutions to problems
 *make informed decisions
+
+REALITY ABOUT DATA:
+Drowning the DATA
+Starving for insights
