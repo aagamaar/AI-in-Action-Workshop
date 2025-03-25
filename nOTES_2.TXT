@@ -10,4 +10,5 @@ Without coding we can scrape data with web scraper or beautiful soup.
 Plugins
 
 WEB SCRAPING:
-useful for the first step in data collection
+*useful for the first step in data collection
+
