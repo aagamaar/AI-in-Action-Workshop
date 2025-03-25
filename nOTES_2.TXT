@@ -14,3 +14,4 @@ WEB SCRAPING:
 
 *Beautiful soup
 *streamlit
+*Developer Tools
