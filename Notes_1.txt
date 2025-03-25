@@ -62,3 +62,5 @@ Raw data:
 Curated data:
 Good set of features and they are applied to model----------> Feature engineering
 
+Supervised Learning: Classifcation and Regression
+Unsupervised Learning: Clustering and Itemset & data rule miningj
