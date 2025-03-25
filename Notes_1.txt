@@ -1,4 +1,6 @@
 AI----> Modern and Traditional 
+
 Modern Intelligence -----------> Narrow AI (performs only 1 task), 
                                  General AI (performs many tasks), 
-                                 Super AI (numerous abilities) 
+                                 Super AI (numerous abilities
+
