@@ -33,3 +33,7 @@ DATA
 REALITY ABOUT DATA:
 Drowning the DATA
 Starving for insights
+
+Data Engineering
+Data Analytics
+Data Visualising and Storytelling
