@@ -34,6 +34,7 @@ REALITY ABOUT DATA:
 Drowning the DATA
 Starving for insights
 
+DATA SCIENCE PIPELINE:
 Data Engineering
 Data Analytics
 Data Visualising and Storytelling
