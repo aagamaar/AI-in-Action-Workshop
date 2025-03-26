@@ -17,3 +17,6 @@ WEB SCRAPING:
 *Developer Tools
 
 Supervised ---------------> Classification and Regression
+
+Data point
+Euclidean space
