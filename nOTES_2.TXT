@@ -19,4 +19,13 @@ WEB SCRAPING:
 Supervised ---------------> Classification and Regression
 IMP terms: 
 *Data point
-*Euclidean space
+*Euclidean space  
+
+No machine learning algorithm is perfect for Classification of data.
+
+We must always look into:
+Right algorithm combination
+Right hyperparameter( parameters which are not fixed )
+
+AutoML 
+Sklearn
