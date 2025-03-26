@@ -8,3 +8,4 @@ Multilayer Perceptron (MLP)
 BackPropagation     
 RNN
 CNN
+Activation volume
