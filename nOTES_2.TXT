@@ -29,3 +29,7 @@ Right hyperparameter( parameters which are not fixed )
 
 AutoML 
 Sklearn
+
+PyCaret :
+*python library 
+*excellent for research purpose
