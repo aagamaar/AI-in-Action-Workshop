@@ -9,3 +9,5 @@ BackPropagation
 RNN
 CNN
 Activation volume
+
+Average bias and average varianced
