@@ -4,4 +4,7 @@ HIDDEN LAYER:
 OUTPUT LAYER:
 
 Simplest model: Perceptron model
-
+Multilayer Perceptron (MLP)
+BackPropagation     
+RNN
+CNN
