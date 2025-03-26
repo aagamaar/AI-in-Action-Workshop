@@ -16,3 +16,4 @@ WEB SCRAPING:
 *streamlit
 *Developer Tools
 
+Supervised ---------------> Classification and Regression
