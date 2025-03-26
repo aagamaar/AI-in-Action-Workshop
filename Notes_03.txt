@@ -10,4 +10,10 @@ RNN
 CNN
 Activation volume
 
-Average bias and average varianced
+Average bias and average variances
+
+ImageNet Challenge------1000 classes of objects and lakhs of images
+
+Pretrained model vg16 , resnet, 
+
+kaggle             
